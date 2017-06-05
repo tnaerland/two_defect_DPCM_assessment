@@ -1,0 +1,7 @@
+max_Et	0.644472361809
+min_Et	0.429648241206
+min_residual_value_used_in_plot	5.8053566529
+max_k	5.11143348344
+min_residual_value_used_in_plot_k	4.15040475785
+min_residual_value_used_in_plot_Et	0.446608040201
+min_k	2.93316627839
